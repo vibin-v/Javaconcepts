@@ -7,6 +7,11 @@ public class HDFCChild extends RBIParent{
         System.out.println("I'm mmutual fund from child bank...");
     }
 
+    public void recurringDep()
+    {
+        System.out.println("I'm recurringDep from child bank...");
+    }
+
     public void nonstaticHDFCmethod()
     {
         //System.out.println("Hiii... From nonStatic Child bank");

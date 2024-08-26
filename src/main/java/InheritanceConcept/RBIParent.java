@@ -11,6 +11,6 @@ public class RBIParent {
 
     public static void staticmethod()
     {
-        System.out.println("Hiii... From Static parent..");
+        System.out.println("Hiii... From Static parent...!!");
     }
 }
